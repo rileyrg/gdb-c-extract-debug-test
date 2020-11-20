@@ -1,0 +1,9 @@
+*
+!.gitignore
+!.projectile
+!inttobin.c
+!extract_debug_info.sh
+!Makefile
+!clang-format
+!compile_commands.json
+

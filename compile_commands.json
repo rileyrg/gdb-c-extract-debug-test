@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-g",
+            "-o",
+            "inttobin",
+            "inttobin.c"
+        ],
+        "directory": "/home/rgr/Dropbox/homefiles/development/projects/C/inttobin",
+        "file": "inttobin.c"
+    }
+]
