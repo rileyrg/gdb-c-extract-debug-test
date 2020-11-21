@@ -1,6 +1,7 @@
 *
 !.gitignore
 !.projectile
+!.gdbinit
 !README.txt
 !inttobin.c
 !extract_debug_info.sh
